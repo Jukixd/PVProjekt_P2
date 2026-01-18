@@ -17,9 +17,8 @@ Implementace P2P projektu v jazyce Java. Aplikace funguje jako Node v Peer-to-Pe
 
 
 ## Spuštění Apliakce
-### MySQL
 * spusťte sql script v adresáři sql/schema.sql ve MySQL Workbench
 * Upravte config.properties tak aby data(db.user,db.password) seděla vaším údajům
-* V kořenovém adresáři projektu spusťte příkaz v terminálu:
+* V kořenovém adresáři projektu spusťte příkaz v příkazovém řádku:
 ```bash
 java -jar P2PBanka.jar
