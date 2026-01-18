@@ -27,7 +27,6 @@ public class ClientHand implements Runnable {
                     out.println("ER " + e.getMessage());
                     continue;
                 }
-
                 System.out.println("Příkaz od " + clientIp + ": " + request);
                 String response = processCommand(request, request);
                 out.println(response);

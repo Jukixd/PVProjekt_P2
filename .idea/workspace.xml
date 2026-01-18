@@ -10,11 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdd0ec2f-05c9-46f5-a137-7518792353f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P2PBanka.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/P2PBanka_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/P2PBanka_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientHand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tmadz\IdeaProjects\PVP2P\Doc" />
       <recent name="C:\Users\tmadz\IdeaProjects\PVP2P" />
       <recent name="C:\Users\tmadz\IdeaProjects\P2PBanka" />
       <recent name="C:\Users\tmadz\IdeaProjects\P2PBanka\src" />
